@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Tucuma em Tudo", "Assembly-CSharp-firstpass.csproj", "{CF19D972-2F5C-ECFB-CD76-84B01F3612A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Tucuma em Tudo", "Assembly-CSharp.csproj", "{D7EE4459-65C5-2263-47F1-01952CD7ED74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Tucuma em Tudo", "Assembly-CSharp-Editor-firstpass.csproj", "{2B4F3BA1-6854-7464-FBC4-4DDB2545C4BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF19D972-2F5C-ECFB-CD76-84B01F3612A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF19D972-2F5C-ECFB-CD76-84B01F3612A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF19D972-2F5C-ECFB-CD76-84B01F3612A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF19D972-2F5C-ECFB-CD76-84B01F3612A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7EE4459-65C5-2263-47F1-01952CD7ED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EE4459-65C5-2263-47F1-01952CD7ED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EE4459-65C5-2263-47F1-01952CD7ED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EE4459-65C5-2263-47F1-01952CD7ED74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4F3BA1-6854-7464-FBC4-4DDB2545C4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4F3BA1-6854-7464-FBC4-4DDB2545C4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4F3BA1-6854-7464-FBC4-4DDB2545C4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4F3BA1-6854-7464-FBC4-4DDB2545C4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
